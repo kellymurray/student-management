@@ -1,0 +1,28 @@
+.student-wrapper {
+  margin: -10 0 0 25px;
+}
+
+
+/*Text Styles*/
+
+h1 {
+  margin: 10px 0 0 25px;
+}
+
+h2 {
+  margin: 10px 0 0 25px;
+  }
+
+h3 {
+  margin: 10px 0 0 25px;
+}
+
+p {
+  margin: 10px 0 0 25px;
+}
+
+/* Components */
+
+button {
+  margin: 0 0 0 25px;
+}
